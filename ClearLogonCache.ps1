@@ -1,0 +1,1 @@
+﻿Clear-SPDistributedCacheItem –ContainerType DistributedLogonTokenCache
